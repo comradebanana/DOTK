@@ -7,48 +7,4 @@ shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
 shared.scr = [[
-2 [6qe] 4 [6qe]
-2 [6qe] 4 [6qe]
-[2e] y [6qei] p [4d] p [6qei] y
-[2e] y [6qei] p [4d] [6qep]
-[18] s [0euf] j [6l] j [0euf] s
-[18p] s [0euf] j [6l] [0eu]
-[3] L [8wrl] k [4s] [W8ql]
-[3s] S [8wrs] a a a [4a] [W8qt]
-[(8e] T t r [79W] T t r
-[^9w] i u [6*W] e
-[2] y [6qei] p [4d] p [6qei] y
-[2e] y [6qei] p [4d] [6qep]
-[18] s [0euf] j [6l] j [0euf] s
-[18p] s [0euf] [6] [0euf]
-[%] g [Y0rf] D D D [6D] [0etu]
-[%Y] i [Y0ru] H [6D] [0etu]
-[%(Y] o s D h D s D
-[sh] D s D h D [ws] [(D]
-[18th] [oD] [18ts] [oD] [18th] D [18ts] [29y] D
-[@(Yh] [4qi] D [5wos] [%WO] D [5woh] D [5wos] [%WO] [oD]
-[^EPh] [8ts] [Dl] [9ydZ] [(YD] [lv] [9ydv] [8ts] [hZ] [^EPl] [8ts] [Dh]
-[o^EP] [%WO] [Yo] [5wto] [4qi] [Yo] [@(Yo] [29y] [wY] [18t] Y
-[^od] P [9wydh] h [J5z] h [9wydh] P
-[^dh] J [9wyhz] v [5zB] [9wydz]
-[$] D [T9ed] S [5y] [9wED]
-[$d] D [T9ed] S S S [5S] [E9wy]
-[49qe] y i p d [Ph] [pg] [Id]
-[id] [Eh] [eg] [qd] [Qd] p [8I] y
-[4qy] [5w] [ei] [6ep] [^E] [id] [6eg] [id] [6ep] [^E] [ei]
-[18tp] [29y] [id] [30ug] [4qi] [dj] [30uz] [29y] [dj] [18tg] [29y] [id]
-[18ti] [^E] [pd] [6ed] [5w] [gj] [4qH] [30] [29p]
-[18ep] [30] [6ep] [30] [ep] 7 [29] [%ep] [29ra]
-[6ts] [1yd] 8 [4uf] [18ig] [5uf] 7 [3uf] [7ig]
-[4uoh] [pj] 6 [29uak] [sl] 6 [3udz] [fx] 5 [18fgc] [hv] 5
-[%HV] [fx] [SL] [pj] [IG] [QYD] [ts] [8WO]
-[2y] [6qe] [4] [6qe]
-[2] [6qe] [4] [6qe]
-[2ep] d [6qeig] j [4dz] p [6qeig] y
-[2ep] d [6qeig] j [4dz] [6qepj]
-[18] s [0eux] j [6l] p [0euf] s
-[18p] s [0eux] j [6l] [0eu]
-[3] L [8wrs] a [4t] [W8ql]
-[3s] S [8wrs] a a a [4a] [8qt]
-[(1e] 7 8 T t r [9W] ^ 7 T t r
-[9w] 6 ^ [6epgz] [gz] [gz] [29ydgjz]
+8 0 t 8 0 t 8 0 7 0 t 7 0 t 7 0 q t y q t u q t q t y q t u q [ts] [8s] 0 [th] [8h] h [0f] [tf] 8 [0d] [7s] 0 [th] [7h] [0d] t 7 [0s] [qs] t [yg] g q g [tg] f u d q [ts] [qs] d t f [yd] q t u q [ts] [8s] 0 [th] [8h] [0f] [tf] 8 [0d] [7s] 0 [th] h [7h] h [0d] t 7 [0d] [qs] t [yg] [qg] [tg] f u d q [tf] [qh] g t f [yd] s q s [ts] u [qs] [ts] [8s] 0 [th] [8h] [0f] f t [8d] [0s] 7 0 [th] [7h] [0d] t [7d] [0s] q [tg] y q [tg] [uf] q f t h [qg] [tf] [yd] s q s t u [qs] [ts] [8s] 0 [th] [8h] [0f] t d [8d] [0s] 7 [0j] [tf] [7f] d 0 t 7 0 s [qg] [tg] g y g q g t f u q [tf] h [qh] g t f [yd] s q s t u [qs] [ts] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etid] [9d] [9ud] [9f] [9s] [9ts] [9s] [9s] [qetid] [qf] [quf] [qf] q [qt] [qs] [qs] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etij] [9h] [9uh] [9g] [9g] [9tf] [9f] f 9 h [qetig] [qf] [qud] s q s q [qtp] [qs] [qs] [8tuo] [8d] 8 [8f] 8 [8u] [8t] 8 [5tyo] 5 5 5 [5h] [5uh] [5t] [5k] [9eti] [9l] [9u] 9 9 [9t] 9 9 [qetig] q [qu] q q [qt] q q 8 0 t 8 0 t 8 0 7 0 t 7 0 t 7 0 q t y q t u q t q t y q t u q t [8s] 0 [th] [8h] [0f] f t [8d] [0s] 7 0 [th] [7h] [0d] t [7d] [0s] q [tg] y q [tg] [uf] q f t h [qg] [tf] [yd] s q s t u [qs] [ts] [8s] 0 [th] [8h] [0f] t d [8d] [0s] 7 [0j] [tf] [7f] d 0 t 7 0 s [qg] [tg] g y g q g t f u q [tf] h [qh] g t f [yd] s q s t u [qs] [ts] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etid] [9d] [9ud] [9f] [9s] [9ts] [9s] [9s] [qetid] [qf] [quf] [qf] q [qt] [qs] [qs] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etij] [9h] [9uh] [9g] [9g] [9tf] [9f] f 9 h [qetig] [qf] [qud] s q s q [qtp] [qs] [qs] [8tuo] [8d] 8 [8f] 8 [8u] [8t] 8 [5tyo] 5 5 5 [5h] [5uh] [5t] [5k] [9eti] [9l] [9u] 9 9 [9t] 9 9 [qetig] q [qu] q [qs] [qts] q [qd] [8tuo] [8f] 8 8 8 [8u] [8t] 8 [5tyo] 5 5 5 [5h] [5uh] [5t] [5k] [9eti] [9l] [9u] 9 9 [9t] 9 9 [qetig] q [qu] q q [qt] q q [6et] u p p a p s [od] f o s [4etd] u o o o h u h [uf] d f [5wr] p y u u y y p a [2ets] y i a i p u y [6et] y p p a p s [od] f o s [4etd] u o o o o h [uf] u d f [5ryp] y u u y y p a [2ets] y i i u u s [4et] s [4t] s [4u] s 4 [us] [4ts] [4us] 4 p [4ta] s [5eys] s [5y] s [5o] s 5 [os] [5y] a [5op] 5 [5yp] s [4et] s [4t] s [4u] s 4 [us] [4ts] [4ua] 4 p [4ta] s [5ey] a [5y] s [5o] d 5 [od] [5y] [5o] s [5d] [5ys] [4etl] [4tk] [4uj] h 4 [uh] [4t] f [4u] 4 [4t] [5ty] [5y] [5of] h 5 [og] [5y] f [5o] d 5 s [5y] 2 [tuipf] f 2 [2p] s d t [uf] d [ts] [up] t y [tuip] p s d t [if] d [ts] [is] s [ts] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etid] [9d] [9ud] [9f] [9s] [9ts] [9s] [9s] [qetid] [qf] [quf] [qf] q [qt] [qs] [qs] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etij] [9h] [9uh] [9g] [9g] [9tf] [9f] f 9 h [qetig] [qf] [qud] s q s q [qt] [qs] [qs] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etid] [9d] [9ud] [9f] [9s] [9ts] [9s] [9s] [qetid] [qf] [quf] [qf] q [qt] [qs] [qs] [8tuod] [8d] [8d] [8f] [8s] [8us] [8ts] [8s] [5tyod] [5f] [5h] [5f] 5 [5u] [5ts] [5s] [9etij] [9h] [9uh] [9g] [9g] [9tf] [9f] f 9 h [qetig] [qf] [qud] s q s q [qt] q [qs] [0s] t [8h] [0h] h [tf] [8f] q [7d] [0s] t [7h] [0h] [td] 7 0 [qs] [ts] y [qg] g t g [ug] f q d t [qs] [ts] d y f d [qt] [qtus]
